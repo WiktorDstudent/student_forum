@@ -1,0 +1,19 @@
+current directory: /home/vboxuser/student_forum/vendor/bundle/ruby/3.0.0/gems/debug-1.8.0/ext/debug
+/home/vboxuser/.asdf/installs/ruby/3.0.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/vboxuser/student_forum/vendor/bundle/ruby/3.0.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231109-22763-m5wcr1 sitelibdir\=./.gem.20231109-22763-m5wcr1 clean
+
+current directory: /home/vboxuser/student_forum/vendor/bundle/ruby/3.0.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231109-22763-m5wcr1 sitelibdir\=./.gem.20231109-22763-m5wcr1
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/vboxuser/student_forum/vendor/bundle/ruby/3.0.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231109-22763-m5wcr1 sitelibdir\=./.gem.20231109-22763-m5wcr1 install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20231109-22763-m5wcr1/debug
+
+current directory: /home/vboxuser/student_forum/vendor/bundle/ruby/3.0.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231109-22763-m5wcr1 sitelibdir\=./.gem.20231109-22763-m5wcr1 clean

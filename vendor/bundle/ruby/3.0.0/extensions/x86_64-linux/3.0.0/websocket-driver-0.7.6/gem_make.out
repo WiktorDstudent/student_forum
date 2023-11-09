@@ -1,0 +1,18 @@
+current directory: /home/vboxuser/student_forum/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/home/vboxuser/.asdf/installs/ruby/3.0.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/vboxuser/student_forum/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20231109-22763-2kauix sitelibdir\=./.gem.20231109-22763-2kauix clean
+
+current directory: /home/vboxuser/student_forum/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20231109-22763-2kauix sitelibdir\=./.gem.20231109-22763-2kauix
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/vboxuser/student_forum/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20231109-22763-2kauix sitelibdir\=./.gem.20231109-22763-2kauix install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20231109-22763-2kauix
+
+current directory: /home/vboxuser/student_forum/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20231109-22763-2kauix sitelibdir\=./.gem.20231109-22763-2kauix clean

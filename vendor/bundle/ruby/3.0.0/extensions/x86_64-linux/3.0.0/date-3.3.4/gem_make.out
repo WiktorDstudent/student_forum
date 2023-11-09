@@ -1,0 +1,24 @@
+current directory: /home/vboxuser/student_forum/vendor/bundle/ruby/3.0.0/gems/date-3.3.4/ext/date
+/home/vboxuser/.asdf/installs/ruby/3.0.0/bin/ruby extconf.rb
+checking for rb_category_warn()... yes
+checking for timezone in time.h with  -Werror... yes
+checking for altzone in time.h with  -Werror... no
+creating Makefile
+
+current directory: /home/vboxuser/student_forum/vendor/bundle/ruby/3.0.0/gems/date-3.3.4/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20231109-22763-mgoj4j sitelibdir\=./.gem.20231109-22763-mgoj4j clean
+
+current directory: /home/vboxuser/student_forum/vendor/bundle/ruby/3.0.0/gems/date-3.3.4/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20231109-22763-mgoj4j sitelibdir\=./.gem.20231109-22763-mgoj4j
+compiling date_core.c
+compiling date_parse.c
+compiling date_strftime.c
+compiling date_strptime.c
+linking shared-object date_core.so
+
+current directory: /home/vboxuser/student_forum/vendor/bundle/ruby/3.0.0/gems/date-3.3.4/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20231109-22763-mgoj4j sitelibdir\=./.gem.20231109-22763-mgoj4j install
+/usr/bin/install -c -m 0755 date_core.so ./.gem.20231109-22763-mgoj4j
+
+current directory: /home/vboxuser/student_forum/vendor/bundle/ruby/3.0.0/gems/date-3.3.4/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20231109-22763-mgoj4j sitelibdir\=./.gem.20231109-22763-mgoj4j clean
